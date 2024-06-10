@@ -1,0 +1,5 @@
+IP: 64.225.5.203
+
+PhPMyAdmin:
+User: admin
+Pass: 76bd690deb3c1a5ccec26f185471292cf5be5f7c3c7a5e67 
